@@ -11,6 +11,7 @@ package gui;
  */
 public class GUIFrame extends javax.swing.JFrame {
     private int value;
+    private String name;
     /**
      * Creates new form GUIFrame
      */
