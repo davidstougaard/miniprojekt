@@ -10,7 +10,7 @@ package gui;
  * @author David
  */
 public class GUIFrame extends javax.swing.JFrame {
-
+    private int value;
     /**
      * Creates new form GUIFrame
      */
